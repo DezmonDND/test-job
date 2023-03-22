@@ -1,0 +1,8 @@
+.footer__links {
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+    margin-top: 41px;
+    margin-right: 80px;
+    margin-bottom: 40px;
+}

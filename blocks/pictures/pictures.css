@@ -1,0 +1,6 @@
+.pictures {
+    display: flex;
+    max-height: 359px;
+    width: 100%;
+    justify-content: center;
+}

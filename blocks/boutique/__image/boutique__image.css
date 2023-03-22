@@ -1,0 +1,8 @@
+.boutique__image {
+    max-height: 153px;
+    margin-right: 46px;
+}
+
+.boutique__image:last-of-type {
+    margin-right: 43px;
+}

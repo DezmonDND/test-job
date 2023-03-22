@@ -1,0 +1,6 @@
+.about-us {
+    display: flex;
+    flex-direction: row;
+    margin-left: 79px;
+    margin-right: 80px;
+}

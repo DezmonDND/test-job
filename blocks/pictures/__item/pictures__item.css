@@ -1,0 +1,8 @@
+.pictures__item {
+    object-fit: cover;
+    margin-right: 30px;
+}
+
+.pictures__item:last-of-type {
+    margin-right: 0;
+}

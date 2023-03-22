@@ -1,0 +1,5 @@
+.footer__column-three {
+    display: flex;
+    flex-direction: column;
+    margin-right: 108px;
+}

@@ -1,0 +1,5 @@
+.footer__column-four {
+    display: flex;
+    flex-direction: column;
+    margin-right: 7px;
+}

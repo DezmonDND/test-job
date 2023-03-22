@@ -1,0 +1,4 @@
+.boutique {
+    display: flex;
+    flex-direction: column;
+}

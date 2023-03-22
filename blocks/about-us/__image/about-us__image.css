@@ -1,0 +1,7 @@
+.about-us__image {
+    max-height: 637px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    margin-right: 30px;
+}

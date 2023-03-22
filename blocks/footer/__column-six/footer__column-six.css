@@ -1,0 +1,4 @@
+.footer__column-six {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,6 @@
+.data__information {
+    display: flex;
+    flex-direction: column;
+    margin-right: 105px;
+    align-self: center;
+}

@@ -1,0 +1,9 @@
+.data__image {
+    margin-right: 30px;
+    max-height: 508px;
+    object-fit: cover;
+}
+
+.data__image:last-of-type {
+    margin-right: 0;
+}
